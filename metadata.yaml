@@ -1,11 +1,14 @@
 _repo: Marmion-A-Tale-of-Flodden-Field-in-Six-Cantos_5077
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
       agent_name: Bayne, Thomas
       gutenberg_agent_id: '1692'
       url: http://www.gutenberg.org/2009/agents/1692
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scott, Walter
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/59
     wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5077#Marmion-A-Tale-of-Flodden-Field-in-Six-Cantos
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
